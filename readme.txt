@@ -1,4 +1,5 @@
 === Perfect related posts ===
+Contributors: Amrinder Singh
 Tags:related, posts, categories, perfect
 Requires at least: 3.0.1
 Tested up to: 4.2
