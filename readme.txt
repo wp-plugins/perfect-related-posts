@@ -1,6 +1,13 @@
 === Perfect related posts ===
+<<<<<<< .mine
+Plugin Name: Perfect Related Posts
+Plugin URI:  http://www.developingsense.com/perfectrelatedposts
+=======
 Contributors: Amrinder Singh
+>>>>>>> .r1196545
 Tags:related, posts, categories, perfect
+Author:      Amrinder Singh
+Author URI:  http://www.developingsense.com
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 1.0
