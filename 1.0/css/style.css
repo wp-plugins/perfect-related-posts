@@ -1,0 +1,20 @@
+#more-from-cat1  { 
+list-style-type: none;
+margin: 0;
+padding: 0; 
+}
+#more-from-cat1 li{
+    display: inline;
+    list-style-type: none;
+}
+
+#dsense_more_cat ul li { display: table;
+    float: left;
+    margin-bottom: 0px;
+    padding: 0.9em;
+    width: 24%; }
+#more-from-cat1 li img 
+{
+    vertical-align:middle;
+}
+#dsense_more_cat ul li a { display:block!important;line-height:normal; }  
