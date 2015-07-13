@@ -4,6 +4,7 @@ Plugin Name: Perfect Related Posts
 Plugin URI:  http://www.developingsense.com/perfectrelatedposts
 =======
 Contributors: Amrinder Singh
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HH9UAGR9QBPWJ
 Tags:related, posts, categories, perfect
 Author:      Amrinder Singh
 Author URI:  http://www.developingsense.com
